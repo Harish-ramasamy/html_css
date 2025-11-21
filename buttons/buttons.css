@@ -88,3 +88,21 @@ button{
     color: #e83e8c;
     border: solid #e83e8c 2px;
 }
+
+.div2{
+    width: 60px;
+    height: 60px;
+    background-color: lightcyan;
+    top:0px;
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+}
+
+.div1{
+    width: 150px;
+    background-color: red;
+    height: 150px;
+    position: relative;
+    left: 50px;
+}
